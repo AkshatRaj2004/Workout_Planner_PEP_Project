@@ -1,0 +1,3 @@
+.backdrop { position: fixed; inset: 0; z-index: 40; display: grid; place-items: center; padding: 1rem; background: rgb(2 6 23 / 72%); }
+.modal { width: min(100%, 32rem); border: 1px solid var(--border); border-radius: 1rem; background: var(--surface); box-shadow: 0 24px 64px rgb(0 0 0 / 35%); padding: 1.25rem; }
+.header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem; }.header h2 { margin: 0; font-size: 1.2rem; }.header button { border: 0; background: transparent; color: var(--text-muted); font-size: 1.7rem; cursor: pointer; }
