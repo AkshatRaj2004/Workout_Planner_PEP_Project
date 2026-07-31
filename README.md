@@ -263,37 +263,23 @@ GET /api/health
 - Deploy
 - Update Backend `CLIENT_URL`
 
----
-
 # 📷 Screenshots
 
-> Add screenshots here after completing the project.
+## Login
 
-### Login
+![Login](login.png)
 
-```
-/screenshots/login.png
-```
+## Register
 
-### Dashboard
+![Register](register.png)
 
-```
-/screenshots/dashboard.png
-```
+## Dashboard
 
-### Workouts
+![Dashboard](dashboard.png)
 
-```
-/screenshots/workouts.png
-```
+## Main UI
 
-### Add Workout
-
-```
-/screenshots/add-workout.png
-```
-
----
+![Main UI](ui.png)
 
 # 🔮 Future Improvements
 
